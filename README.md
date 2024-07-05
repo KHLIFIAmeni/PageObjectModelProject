@@ -1,4 +1,4 @@
-# Projet d'Automatisation de Tests - "automation Exercice"
+# Projet d'Automatisation de Tests - "Automation Exercice"
 
 Ce projet utilise JUnit et le pattern Page Object Model pour automatiser les cas de test du site "https://automationexercise.com/".
 
